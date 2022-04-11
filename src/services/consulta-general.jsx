@@ -1,1 +1,0 @@
-export const getCharacter = () => fetch('https://rickandmortyapi.com/api/character').then(response => response)
